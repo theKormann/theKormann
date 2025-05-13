@@ -39,13 +39,6 @@ With one year of experience in the IT industry, I have an analytical and committ
 
 ---
 
-## 🧾 Projetos em Destaque
-
-- 🐶 **Sistema interno para clínica veterinária** – App desktop com JavaFX + Spring Boot para geração de fichas em PDF  
-- 📩 **Formulário de e-book com envio automático** – Formulário React + API Java para envio de e-book por e-mail
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
