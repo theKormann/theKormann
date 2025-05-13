@@ -30,12 +30,6 @@ With one year of experience in the IT industry, I have an analytical and committ
 
 ---
 
-## 📊 Tecnologias que mais utilizo
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskormann&layout=compact&langs_count=10&theme=radical)
-
----
-
 ## 💻 Ferramentas e IDEs
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
